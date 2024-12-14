@@ -1,0 +1,42 @@
+.desgin{
+ background-color: rgb(252, 236, 216);
+font-family: "Edu AU VIC WA NT Pre", cursive;
+  font-optical-sizing: auto;
+  font-weight:weight;
+  font-style: normal;
+  
+}
+
+.Delicious{
+    color: rgb(242, 244, 247);background-color: rgba(38 1 1);
+    text-align: center;
+}
+
+.end{ 
+  text-align: center;  color: aliceblue;background-color: rgb(26, 1, 1, 0.719);
+}
+
+
+
+.set{
+    background-color: rgb(229, 216, 195); color: rgb(26, 1, 1, 0.719) ; text-align: center;
+}
+.set:hover {  font-size: large;
+    color: rgb(103, 110, 6);
+  ;}
+
+.ingredients{ 
+    color:rgb(26, 1, 1, 0.719) ;
+}
+.word:hover {
+    color: rgb(202, 211, 14);
+  font-size: larger;}
+
+
+.dis{
+    background-image:url(cupcacke.png) 
+    ;color:  aliceblue; text-align: center;
+}
+.dis:hover{
+background-position: left;
+  font-size: larger;}
